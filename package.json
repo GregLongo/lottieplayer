@@ -14,9 +14,22 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@crello/react-lottie": "git+https://git@github.com/good-idea/react-lottie.git#installable",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "bodymovin": "^4.13.0",
     "gatsby": "^2.26.1",
+    "gatsby-plugin-emotion": "^5.2.0",
+    "gatsby-plugin-typography": "^2.10.0",
+    "gsap": "^3.5.1",
+    "hamburger-react": "^2.4.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-lottie": "^1.2.3",
+    "react-simple-maps": "^2.3.0",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-kirkham": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "2.2.1"
